@@ -1,4 +1,4 @@
-# 1st Undergraduate Computational Project (2020)
+# 1st Year Undergraduate Computational Project (2020)
  
 ## RAFT Polymerisation Kinetics Simulation
 
