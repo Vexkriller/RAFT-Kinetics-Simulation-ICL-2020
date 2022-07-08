@@ -2,7 +2,7 @@
  
 ## RAFT Polymerisation Kinetics Simulation
 
-### Written by Suleyman Bihi, Karen Pacho Dominguez, Stephen Solomou and Navraj Eari | as part of our submission for the "MATE40001 - Mathematics and Computing 1 2020-2021" module
+### Written by Suleyman Bihi, Karen Pacho Dominguez, Stephen Solomou and Navraj Eari | as part of our submission for the "MATE40001 - Mathematics and Computing 1 2020-2021" module.
 
 - Program simulates the kinetics of polymerisation as if it were a real life experiment.
 - How to use:
